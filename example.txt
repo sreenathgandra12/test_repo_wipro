@@ -1,2 +1,3 @@
 Hello,
-This is example text file.
+This is example text file added.
+some changes made.
